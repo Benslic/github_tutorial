@@ -1,0 +1,3 @@
+testing --amend 
+changing something in the previous commit
+
