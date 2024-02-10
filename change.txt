@@ -7,3 +7,5 @@ changing <change.txt> without creating a new branch
 //
 
 Version 999
+
+VERSION 1000 iS HERe!
