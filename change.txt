@@ -5,3 +5,5 @@ changing something in the previous commit
 changing <change.txt> without creating a new branch
 --amend functionality
 //
+
+Version 999
